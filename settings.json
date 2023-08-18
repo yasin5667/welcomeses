@@ -1,0 +1,14 @@
+{
+  "channels": [
+    "1138833326963163217",
+    "1105206730171895858",
+    "1105206731618918451"
+  ],
+
+  "staffRoles": ["1138492944911974401"],
+
+  "unregisterRoles": ["1138853903773995059"],
+
+  "welcomeSound": "https://cdn.discordapp.com/attachments/1138845808586928138/1142114927297974323/ses.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/1141316858088259654/1142118728247545896/Lutfen_kayt_olmak_i.mp3"
+}
